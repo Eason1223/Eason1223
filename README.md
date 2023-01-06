@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eason1223
-- 👀 I’m interested in software design
+- 👀 I’m interested in software design and WebDev
 - 🌱 I’m currently a 3rd year Computer Engineering student at UBC
 - 📫 How to reach me = "Easonfeng@proton.me"
 
